@@ -1,2 +1,4 @@
-print("hello world")
-print("Esta es la rama del laboratorio2")
+print("Gus")
+print("Marta")
+print("Gabriela")
+print("Mariana")
